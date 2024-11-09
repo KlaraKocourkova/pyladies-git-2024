@@ -5,3 +5,5 @@ Collection of fine poetry
 
 to use call git clone [url]
 
+další instrukce. Příště bude tahák
+
